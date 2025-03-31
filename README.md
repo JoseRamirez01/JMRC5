@@ -10,4 +10,4 @@ Esta es una aplicación web simple para gestionar tareas. Fue creada para aprend
 ## Tecnologías
 - Java SpringBoot
 
-JMRC5-1 Implementacion de registro. Resolviendo JIRA-101
+JMRC5-2 Diseño de la base de datos para usuario. Resolviendo JIRA-102
